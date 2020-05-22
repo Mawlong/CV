@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Education from './components/education'
 import Proficiency from './components/technicalProficiency'
+import Internships from './components/internships'
 
 
 import Navigation from './components/navbar';
@@ -13,6 +14,7 @@ function App() {
       <Navigation/>
       <Education/>
       <Proficiency/>
+      <Internships/>
       <Footer/>
     </div>
 
