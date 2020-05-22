@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
 
+import Navigation from './components/navbar';
+
 function App() {
   return (
     <div className="App">
-
-      Hellow thereeeeee
-     
+      <Navigation/>
     </div>
   );
 }
