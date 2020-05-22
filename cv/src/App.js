@@ -6,6 +6,7 @@ import Proficiency from './components/technicalProficiency'
 import Internships from './components/internships'
 import Responsibility from './components/posResponsibility'
 import Projects from './components/projects'
+import ExtraCurricular from './components/extraCurricular'
 
 
 import Navigation from './components/navbar';
@@ -20,6 +21,7 @@ function App() {
       <Internships/>
       <Responsibility/>
       <Projects/>
+      <ExtraCurricular/>
       <Footer/>
     </div>
 
