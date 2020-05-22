@@ -5,6 +5,7 @@ import Education from './components/education'
 import Proficiency from './components/technicalProficiency'
 import Internships from './components/internships'
 import Responsibility from './components/posResponsibility'
+import Projects from './components/projects'
 
 
 import Navigation from './components/navbar';
@@ -18,6 +19,7 @@ function App() {
       <Proficiency/>
       <Internships/>
       <Responsibility/>
+      <Projects/>
       <Footer/>
     </div>
 
