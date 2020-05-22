@@ -7,6 +7,8 @@ import Internships from './components/internships'
 import Responsibility from './components/posResponsibility'
 import Projects from './components/projects'
 import ExtraCurricular from './components/extraCurricular'
+import Awards from './components/awards'
+
 
 
 import Navigation from './components/navbar';
@@ -22,6 +24,12 @@ function App() {
       <Responsibility/>
       <Projects/>
       <ExtraCurricular/>
+      <Awards/>
+
+      <div align="center">
+        <p>(<b>NOTE</b>: Cognitia is NIT Meghalaya’s annual Technical Festival, Shishir is NIT Meghalaya’s annual Cultural Festival.)</p>
+      </div>
+      
       <Footer/>
     </div>
 
