@@ -3,9 +3,9 @@ import {Container, Table} from 'react-bootstrap'
 
 function extraCurricular() {
     return (
-        <Container>
+        <Container id="eca">
         <Table responsive bordered size="sm"> 
-            <thead>
+            <thead className="headingBackground">
                 <th>
                     EXTRA CURRICULAR ACTIVITIES
                 </th>

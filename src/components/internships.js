@@ -3,9 +3,9 @@ import {Container, Table} from 'react-bootstrap'
 
 function internships() {
     return (
-        <Container>
+        <Container id="internships">
         <Table responsive size="sm"> 
-            <thead>
+            <thead className="headingBackground">
                 <th colSpan="4">
                     Internships
                 </th>

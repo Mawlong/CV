@@ -3,10 +3,10 @@ import {Container, Table} from 'react-bootstrap'
 
 function education() {
     return (
-        <Container className="mt-3">
+        <Container className="mt-3" id="education">
             <Table responsive bordered size="sm">
 
-                <thead>
+                <thead className="headingBackground">
                     <th colSpan="4">
                         Education
                     </th>

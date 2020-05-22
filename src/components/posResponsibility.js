@@ -3,9 +3,9 @@ import {Container, Table} from 'react-bootstrap'
 
 function posResponsibility() {
     return (
-        <Container>
+        <Container id="por">
         <Table responsive size="sm"> 
-            <thead>
+            <thead className="headingBackground">
                 <th colSpan="4">
                     Positions of Responsibility
                 </th>

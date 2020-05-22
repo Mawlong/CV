@@ -3,9 +3,9 @@ import {Container, Table} from 'react-bootstrap'
 
 function awards() {
     return (
-        <Container>
+        <Container id="awards">
             <Table responsive bordered size="sm"> 
-                <thead>
+                <thead className="headingBackground">
                     <th>
                         Awards
                     </th>

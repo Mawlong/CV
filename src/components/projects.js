@@ -3,9 +3,9 @@ import {Container, Table} from 'react-bootstrap'
 
 function projects() {
     return (
-        <Container>
+        <Container id="projects">
             <Table responsive bordered size="sm"> 
-                <thead>
+                <thead className="headingBackground">
                     <th>
                         Projects
                     </th>

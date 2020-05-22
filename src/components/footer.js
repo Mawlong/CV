@@ -3,11 +3,11 @@ import {Row,Col,Container} from 'react-bootstrap'
 
 function footer() {
     return (
-        <div className="footer text-white bg-dark">
+        <div className="footer text-white footerbg">
             
-            <Container className= "mt-2 mb-2" >
+            <Container className= "mt-3" >
             
-                <Row className="py-1 mx-auto">
+                <Row className="py-1 pt-4 mx-auto">
             
                     <Col className = "p-1" md = {2} sm ={12} align="left">
                         <p>
@@ -31,7 +31,7 @@ function footer() {
 
                     <Col className = "p-1" md = {2} sm ={12} align="left">
                         <p>
-                            <a href="tel=+917308188239">+91 - 7308188239</a>
+                            <a href="tel: +917308188239">+91 - 7308188239</a>
                         </p>
                     </Col>
                 </Row>

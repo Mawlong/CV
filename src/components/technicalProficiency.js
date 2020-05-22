@@ -3,15 +3,15 @@ import {Container, Table} from 'react-bootstrap'
 
 function technicalProficiency() {
     return (
-        <Container>
+        <Container id="te">
             <Table responsive bordered size="sm"> 
-                <thead>
+                <thead className="headingBackground">
                     <th>
                         Languages, frameworks, Software and Libraries
                     </th>
                 </thead>
                 <tbody>
-                    <td>C, C++, Python, Arduino, git, HTML, CSS, Java Script, Adobe Photoshop, Adobe Premiere Pro, Adobe Lightroom, Adobe Xd</td>
+                    <td align="left">C, C++, Python, Arduino, git, HTML, CSS, Java Script, Adobe Photoshop, Adobe Premiere Pro, Adobe Lightroom, Adobe Xd</td>
                 </tbody>
             </Table>
             
