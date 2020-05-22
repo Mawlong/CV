@@ -27,7 +27,7 @@ function education() {
                         <td>B.Tech</td>
                         <td>NIT Meghalaya</td>
                         <td>8.01</td>
-                        <td>2016-2020</td>
+                        <td>2020</td>
                     </tr>
 
                     <tr>

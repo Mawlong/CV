@@ -20,13 +20,13 @@ function internships() {
 
                 <tr>
                     <td  colSpan="3" style={{textAlign:"left", border:"none"}} >
-                        Contributed towards ~600% improvement in the sales funnel efficiency by working on process-driven growth through automation, introducing Kanban methods, reviewing and updating cross-team workflows thereby reducing turn-around-times by ~30%.
+                        - Contributed towards ~600% improvement in the sales funnel efficiency by working on process-driven growth through automation, introducing Kanban methods, reviewing and updating cross-team workflows thereby reducing turn-around-times by ~30%.
                     </td>
                 </tr>
 
                 <tr>
                     <td  colSpan="3" style={{textAlign:"left", border:"none"}}>
-                        Ideated and led the development of a consolidated client information dashboard to aid the Sales team and also track KPIs.
+                        - Ideated and led the development of a consolidated client information dashboard to aid the Sales team and also track KPIs.
                     </td>
                 </tr>
 
@@ -41,20 +41,20 @@ function internships() {
 
                 <tr>
                     <td  colSpan="3" style={{textAlign:"left", border:"none"}} >
-                        Search Engine Optimization: Contributed towards 246.36 % increase in organic traffic to the website.
+                        - Search Engine Optimization: Contributed towards 246.36 % increase in organic traffic to the website.
                     </td>
                 </tr>
 
                 <tr>
                     <td colSpan="3" style={{textAlign:"left", border:"none"}}>
-                        YouTube Channel Manager: Responsible for a 500% increase in Video Production/month resulting in a 196.18%
+                        - YouTube Channel Manager: Responsible for a 500% increase in Video Production/month resulting in a 196.18%
                         increase in 'Watch Time' (primary metric).
                     </td>
                 </tr>
 
                 <tr>
                     <td  colSpan="3" style={{textAlign:"left", border:"none"}}>
-                        Talent Acquisition: hired the second batch of Interns for various roles in the Digital Marketing Department.
+                        - Talent Acquisition: hired the second batch of Interns for various roles in the Digital Marketing Department.
                     </td>
                 </tr>
 
@@ -68,13 +68,13 @@ function internships() {
 
                 <tr>
                     <td  colSpan="3" style={{textAlign:"left", border:"none"}} >
-                        Front End Web Development and UI Design.
+                        - Front End Web Development and UI Design.
                     </td>
                 </tr>
 
                 <tr>
                     <td  colSpan="3" style={{textAlign:"left", border:"none"}}>
-                        Designed the login UI mockup designed to cater to the commuting needs of ~3 million people using Adobe XD.
+                        - Designed the login UI mockup designed to cater to the commuting needs of ~3 million people using Adobe XD.
                     </td>
                 </tr>
 
@@ -89,7 +89,7 @@ function internships() {
 
                 <tr>
                     <td  colSpan="3" style={{textAlign:"left", border:"none"}}>
-                        Research on the automation of the Microbiology Laboratory and the Equipment used.
+                        - Research on the automation of the Microbiology Laboratory and the Equipment used.
                     </td>
                 </tr>
             </tbody>
