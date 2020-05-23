@@ -14,15 +14,15 @@ function awards() {
                 <tbody align="left">
 
                     <tr>
-                        <td>- Award for Academic Excellence 2016, CBSE Issued by: New Colony Welfare Association.</td>
+                        <td>- <b>Award for Academic Excellence 2016</b>, CBSE Issued by: New Colony Welfare Association.</td>
                     </tr>
 
                     <tr>
-                        <td>- Award for Academic Excellence 2014, ICSE Issued by: New Colony Welfare Association.</td>
+                        <td>- <b>Award for Academic Excellence 2014</b>, ICSE Issued by: New Colony Welfare Association.</td>
                     </tr>
                     
                     <tr>
-                        <td>- Edmundian of the Year 2013 Issued by: St. Edmund’s School, Shillong.</td>
+                        <td>- <b>Edmundian of the Year 2013</b> Issued by: St. Edmund’s School, Shillong.</td>
                     </tr>
 
                 </tbody>

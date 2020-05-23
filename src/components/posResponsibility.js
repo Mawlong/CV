@@ -14,7 +14,7 @@ function posResponsibility() {
 
                 <tr>
                     <td colSpan="4" style={{textAlign:"left", fontWeight:"bold", border:"none"}}>
-                        CEO and Co-Founder - OneCommunity <span style={{float:"right"}}>May 2020</span>
+                        CEO and Co-Founder - <a href="https://onecommunity.now.sh/" target="blank">OneCommunity</a> <span style={{float:"right"}}>May 2020</span>
                     </td>
                 </tr>
 
@@ -33,7 +33,7 @@ function posResponsibility() {
 
                 <tr>
                     <td  colSpan="3" style={{textAlign:"left", border:"none"}}>
-                        - 1 out of ~800 students selected by the Institute to represent the student body.
+                        - <b>1</b> out of <b>~800</b> students selected by the Institute to represent the student body.
                     </td>
                 </tr>
 
@@ -47,19 +47,19 @@ function posResponsibility() {
 
                 <tr>
                     <td  colSpan="3" style={{textAlign:"left", border:"none"}}>
-                        - 1 out of ~30 students selected to head the Computer Science and Engineering Department.
+                        - <b>1</b> out of <b>~30</b> students selected to head the Computer Science and Engineering Department.
                     </td>
                 </tr>
 
                 <tr>
                     <td  colSpan="3" style={{textAlign:"left", border:"none"}}>
-                        - Responsible for the first Tech Hackathon hosted by the Institute.
+                        - Responsible for the <b>first</b> Tech Hackathon hosted by the Institute.
                     </td>
                 </tr>
 
                 <tr>
                     <td  colSpan="3" style={{textAlign:"left", border:"none"}}>
-                        - Introduced two new events resulting in the highest participation for departmental events.
+                        - Introduced <b>two</b> new events resulting in the <b>highest</b> participation for departmental events.
                     </td>
                 </tr>
 
@@ -73,7 +73,7 @@ function posResponsibility() {
 
                 <tr>
                     <td  colSpan="3" style={{textAlign:"left", border:"none"}}>
-                        - Elected from ~120 students by ~800 students.
+                        - Elected from <b>~120</b> students by <b>~800</b> students.
                     </td>
                 </tr>
 
@@ -114,13 +114,13 @@ function posResponsibility() {
 
                 <tr>
                     <td  colSpan="3" style={{textAlign:"left", border:"none"}}>
-                        - 1 out of 5 selected from ~300 to design the website for Cognitia 2017 and Shishir 2018.
+                        - <b>1</b> out of <b>5</b> selected from <b>~300</b> to design the website for Cognitia 2017 and Shishir 2018.
                     </td>
                 </tr>
 
                 <tr>
                     <td  colSpan="3" style={{textAlign:"left", border:"none"}}>
-                        - 1 out of 3 selected from ~300 to handle sponsors for Shishir 2018. 775% increase in sponsorship amount.
+                        - <b>1</b> out of <b>3</b> selected from <b>~300</b> to handle sponsors for Shishir 2018. <b>775%</b> increase in sponsorship amount.
                     </td>
                 </tr>
 
@@ -132,7 +132,7 @@ function posResponsibility() {
 
                 <tr>
                     <td  colSpan="3" style={{textAlign:"left", border:"none"}}>
-                        - 1 out of 2 selected from ~500 to represent NIT Meghalaya at the national level conclave bagging the 4th place and an award for ‘Special Recognition and Best Emerging NIT’ for the Institute.
+                        - <b>1</b> out of <b>2</b> selected from <b>~500</b> to represent NIT Meghalaya at the national level conclave bagging the <b>4th</b> place and an award for <b>‘Special Recognition and Best Emerging NIT’</b> for the Institute.
                     </td>
                 </tr>
 
@@ -144,7 +144,7 @@ function posResponsibility() {
 
                 <tr>
                     <td  colSpan="3" style={{textAlign:"left", border:"none"}}>
-                        - Elected from amongst ~150 senior students to lead a school of ~1650 students for two consecutive years and led the House to win the Inter-House Marching Competition.
+                        - Elected from amongst <b>~150</b> senior students to lead a school of <b>~1650</b> students for <b>two consecutive years</b> and led the House to win the Inter-House Marching Competition.
                     </td>
                 </tr>
 

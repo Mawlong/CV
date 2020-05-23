@@ -25,21 +25,21 @@ function education() {
 
                     <tr>
                         <td>B.Tech</td>
-                        <td>NIT Meghalaya</td>
+                        <td><a href="http://nitmeghalaya.in/nitmeghalaya/" target="blank">NIT Meghalaya</a></td>
                         <td>8.01</td>
                         <td>2020</td>
                     </tr>
 
                     <tr>
                         <td>XII (CBSE)</td>
-                        <td>BSF, Senior Seconday School, Shillong</td>
+                        <td><a href="http://bsfshshillong.org.in/" target="blank">BSF, Senior Seconday School, Shillong</a></td>
                         <td>80.00</td>
                         <td>2016</td>
                     </tr>
                     
                     <tr>
                         <td>X (ICSE)</td>
-                        <td>St. Edmund's School, Shillong</td>
+                        <td><a href="http://www.ses.ac.in/" target="blank">St. Edmund's School, Shillong</a></td>
                         <td>89.90</td>
                         <td>2014</td>
                     </tr>
